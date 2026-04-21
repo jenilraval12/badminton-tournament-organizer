@@ -1,0 +1,6 @@
+If using mysql connector:
+
+```txt
+mysql-connector-python
+python-dotenv
+matplotlib
