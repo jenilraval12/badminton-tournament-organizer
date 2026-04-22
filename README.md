@@ -52,7 +52,7 @@ Project folders:
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone <repo-link>
+git clone https://github.com/jenilraval12/Badminton-Tournament-Organizer
 cd badminton-tournament-organizer
 pip install -r requirements.txt
 python main.py
